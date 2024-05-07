@@ -31,13 +31,11 @@ Enjoy: Receive your fresh produce and enjoy the quality and freshness of our goo
 Contributing
 Interested in contributing to Fruitables? We welcome contributions of all forms, from code improvements, feature requests, bug reports, to documentation. Please read through our CONTRIBUTING.md for guidelines on how to make a contribution.
 
-Support
-For support, contact support@fruitables.com or file an issue here on GitHub.
+
 
 Authors
-Your Name - Initial work - YourGitHub
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Ahmed Mohamed - Initial work - Ahmedhammodi
+
 
 Acknowledgments
 Hat tip to all the farmers and local vendors who make this project possible.
